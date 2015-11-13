@@ -2,14 +2,12 @@
   "general": {
     "userAgentRegexes": [],
     "replaceStrings": [],
-    "userAgentAdd": "gonative",
-    "useWKWebView": true,
-    "initialUrl": "http://kissanime.com/m",
-    "appName": "KissAnime",
-    "publicKey": "wxdwj",
-    "deviceRegKey": "qkjd02qvgqquwvu7mxwpbhphn8",
+    "androidPackageName": "me.sarabveer.kissanime",
     "iosBundleId": "me.sarabveer.kissanime",
-    "androidPackageName": "me.sarabveer.kissanime"
+    "appName": "KissAnime",
+    "initialUrl": "http://kissanime.to/m",
+    "useWKWebView": true,
+    "userAgentAdd": "gonative"
   },
   "navigation": {
     "androidPullToRefresh": true,
@@ -56,19 +54,19 @@
           "items": [
             {
               "label": "Home",
-              "url": "http://kissanime.com/M",
+              "url": "http://kissanime.to/M",
               "icon": "fa-home",
               "subLinks": []
             },
             {
               "label": "Most Popular",
-              "url": "http://kissanime.com/M?sort=popular",
+              "url": "http://kissanime.to/M?sort=popular",
               "icon": "fa-fire",
               "subLinks": []
             },
             {
               "label": "Ongoing",
-              "url": "http://kissanime.com/M?sort=ongoing",
+              "url": "http://kissanime.to/M?sort=ongoing",
               "icon": "fa-play",
               "subLinks": []
             },
@@ -79,322 +77,322 @@
               "subLinks": [
                 {
                   "label": "Action",
-                  "url": "http://kissanime.com/M?sort=genre&key=Action",
+                  "url": "http://kissanime.to/M?sort=genre&key=Action",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Adventure",
-                  "url": "http://kissanime.com/M?sort=genre&key=Adventure",
+                  "url": "http://kissanime.to/M?sort=genre&key=Adventure",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Cars",
-                  "url": "http://kissanime.com/M?sort=genre&key=Cars",
+                  "url": "http://kissanime.to/M?sort=genre&key=Cars",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Cartoon",
-                  "url": "http://kissanime.com/M?sort=genre&key=Cartoon",
+                  "url": "http://kissanime.to/M?sort=genre&key=Cartoon",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Comedy",
-                  "url": "http://kissanime.com/M?sort=genre&key=Comedy",
+                  "url": "http://kissanime.to/M?sort=genre&key=Comedy",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Dementia",
-                  "url": "http://kissanime.com/M?sort=genre&key=Dementia",
+                  "url": "http://kissanime.to/M?sort=genre&key=Dementia",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Demons",
-                  "url": "http://kissanime.com/M?sort=genre&key=Demons",
+                  "url": "http://kissanime.to/M?sort=genre&key=Demons",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Drama",
-                  "url": "http://kissanime.com/M?sort=genre&key=Drama",
+                  "url": "http://kissanime.to/M?sort=genre&key=Drama",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Dub",
-                  "url": "http://kissanime.com/M?sort=genre&key=Dub",
+                  "url": "http://kissanime.to/M?sort=genre&key=Dub",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Ecchi",
-                  "url": "http://kissanime.com/M?sort=genre&key=Ecchi",
+                  "url": "http://kissanime.to/M?sort=genre&key=Ecchi",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Fantasy",
-                  "url": "http://kissanime.com/M?sort=genre&key=Fantasy",
+                  "url": "http://kissanime.to/M?sort=genre&key=Fantasy",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Game",
-                  "url": "http://kissanime.com/M?sort=genre&key=Game",
+                  "url": "http://kissanime.to/M?sort=genre&key=Game",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Harem",
-                  "url": "http://kissanime.com/M?sort=genre&key=Harem",
+                  "url": "http://kissanime.to/M?sort=genre&key=Harem",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Historical",
-                  "url": "http://kissanime.com/M?sort=genre&key=Historical",
+                  "url": "http://kissanime.to/M?sort=genre&key=Historical",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Horror",
-                  "url": "http://kissanime.com/M?sort=genre&key=Horror",
+                  "url": "http://kissanime.to/M?sort=genre&key=Horror",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Josei",
-                  "url": "http://kissanime.com/M?sort=genre&key=Josei",
+                  "url": "http://kissanime.to/M?sort=genre&key=Josei",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Kids",
-                  "url": "http://kissanime.com/M?sort=genre&key=Kids",
+                  "url": "http://kissanime.to/M?sort=genre&key=Kids",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Magic",
-                  "url": "http://kissanime.com/M?sort=genre&key=Magic",
+                  "url": "http://kissanime.to/M?sort=genre&key=Magic",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Martial Arts",
-                  "url": "http://kissanime.com/M?sort=genre&key=Martial%20Arts",
+                  "url": "http://kissanime.to/M?sort=genre&key=Martial%20Arts",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Mecha",
-                  "url": "http://kissanime.com/M?sort=genre&key=Mecha",
+                  "url": "http://kissanime.to/M?sort=genre&key=Mecha",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Military",
-                  "url": "http://kissanime.com/M?sort=genre&key=Military",
+                  "url": "http://kissanime.to/M?sort=genre&key=Military",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Movie",
-                  "url": "http://kissanime.com/M?sort=genre&key=Movie",
+                  "url": "http://kissanime.to/M?sort=genre&key=Movie",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Music",
-                  "url": "http://kissanime.com/M?sort=genre&key=Music",
+                  "url": "http://kissanime.to/M?sort=genre&key=Music",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Mystery",
-                  "url": "http://kissanime.com/M?sort=genre&key=Mystery",
+                  "url": "http://kissanime.to/M?sort=genre&key=Mystery",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "ONA",
-                  "url": "http://kissanime.com/M?sort=genre&key=ONA",
+                  "url": "http://kissanime.to/M?sort=genre&key=ONA",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "OVA",
-                  "url": "http://kissanime.com/M?sort=genre&key=OVA",
+                  "url": "http://kissanime.to/M?sort=genre&key=OVA",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Parody",
-                  "url": "http://kissanime.com/M?sort=genre&key=Parody",
+                  "url": "http://kissanime.to/M?sort=genre&key=Parody",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Police",
-                  "url": "http://kissanime.com/M?sort=genre&key=Police",
+                  "url": "http://kissanime.to/M?sort=genre&key=Police",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Psychological",
-                  "url": "http://kissanime.com/M?sort=genre&key=Psychological",
+                  "url": "http://kissanime.to/M?sort=genre&key=Psychological",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Romance",
-                  "url": "http://kissanime.com/M?sort=genre&key=Romance",
+                  "url": "http://kissanime.to/M?sort=genre&key=Romance",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Samurai",
-                  "url": "http://kissanime.com/M?sort=genre&key=Samurai",
+                  "url": "http://kissanime.to/M?sort=genre&key=Samurai",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "School",
-                  "url": "http://kissanime.com/M?sort=genre&key=School",
+                  "url": "http://kissanime.to/M?sort=genre&key=School",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Sci-Fi",
-                  "url": "http://kissanime.com/M?sort=genre&key=Sci-Fi",
+                  "url": "http://kissanime.to/M?sort=genre&key=Sci-Fi",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Seinen",
-                  "url": "http://kissanime.com/M?sort=genre&key=Seinen",
+                  "url": "http://kissanime.to/M?sort=genre&key=Seinen",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Shoujo",
-                  "url": "http://kissanime.com/M?sort=genre&key=Shoujo",
+                  "url": "http://kissanime.to/M?sort=genre&key=Shoujo",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Shounen",
-                  "url": "http://kissanime.com/M?sort=genre&key=Shounen",
+                  "url": "http://kissanime.to/M?sort=genre&key=Shounen",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Shounen Ai",
-                  "url": "http://kissanime.com/M?sort=genre&key=Shounen%20Ai",
+                  "url": "http://kissanime.to/M?sort=genre&key=Shounen%20Ai",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Slice of Life",
-                  "url": "http://kissanime.com/M?sort=genre&key=Slice%20of%20Life",
+                  "url": "http://kissanime.to/M?sort=genre&key=Slice%20of%20Life",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Space",
-                  "url": "http://kissanime.com/M?sort=genre&key=Space",
+                  "url": "http://kissanime.to/M?sort=genre&key=Space",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Special",
-                  "url": "http://kissanime.com/M?sort=genre&key=Special",
+                  "url": "http://kissanime.to/M?sort=genre&key=Special",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Sports",
-                  "url": "http://kissanime.com/M?sort=genre&key=Sports",
+                  "url": "http://kissanime.to/M?sort=genre&key=Sports",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Super Power",
-                  "url": "http://kissanime.com/M?sort=genre&key=Super%20Power",
+                  "url": "http://kissanime.to/M?sort=genre&key=Super%20Power",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Supernatural",
-                  "url": "http://kissanime.com/M?sort=genre&key=Supernatural",
+                  "url": "http://kissanime.to/M?sort=genre&key=Supernatural",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Thriller",
-                  "url": "http://kissanime.com/M?sort=genre&key=Thriller",
+                  "url": "http://kissanime.to/M?sort=genre&key=Thriller",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Vampire",
-                  "url": "http://kissanime.com/M?sort=genre&key=Vampire",
+                  "url": "http://kissanime.to/M?sort=genre&key=Vampire",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
                 },
                 {
                   "label": "Yuri",
-                  "url": "http://kissanime.com/M?sort=genre&key=Yuri",
+                  "url": "http://kissanime.to/M?sort=genre&key=Yuri",
                   "subLinks": [],
                   "icon": null,
                   "isGrouping": false
@@ -403,22 +401,6 @@
             }
           ]
         },
-        {
-          "name": "loggedIn",
-          "active": false,
-          "items": [
-            {
-              "label": "Sample Home",
-              "url": "http://m.kissanime.com/home",
-              "subLinks": []
-            },
-            {
-              "label": "Sample About",
-              "url": "http://m.kissanime.com/about",
-              "subLinks": []
-            }
-          ]
-        }
       ]
     },
     "regexInternalExternal": {
@@ -487,21 +469,13 @@
       "active": false
     },
     "navigationTitles": {
+      "active": false,
       "titles": [
         {}
-      ],
-      "active": false
+      ]
     },
     "redirects": [],
     "ignorePageFinishedRegexes": [],
-    "androidShowRefreshButton": false,
-    "iosShowRefreshButton": false,
-    "navigationLevels": {
-      "levels": [
-        {}
-      ],
-      "active": true
-    },
     "toolbarNavigation": {
       "visibility": "anyItemEnabled",
       "items": [
@@ -509,79 +483,87 @@
           "system": "back"
         }
       ]
-    }
+    },
+    "navigationLevels": {
+      "active": true,
+      "levels": [
+        {}
+      ]
+    },
+    "iosShowRefreshButton": false,
+    "androidShowRefreshButton": false
   },
   "styling": {
     "transitionInteractiveDelayMax": 0.2,
     "menuAnimationDuration": 0.15,
     "iosLaunchImages": {
-      "ios_launch_640x960": "uploads/1443574037321_zz1jvx5frhmbg_640x960.png",
-      "ios_launch_640x1136": "uploads/1443574037329_jb5fhd73ntvj0_640x1136.png",
-      "ios_launch_768x1024": "uploads/1443574037337_dw8r66pu478ye_768x1024.png",
-      "ios_launch_1024x768": "uploads/1443574037350_1xw622jujz8am_1024x768.png",
-      "ios_launch_1536x2048": "uploads/1443574037366_tubb6nvtfj5ju_1536x2048.png",
-      "ios_launch_2048x1536": "uploads/1443574037376_y141dwmmxhrhr_2048x1536.png",
-      "ios_launch_750x1334": "uploads/1443574037411_0b393phm8etf8_750x1334.png",
+      "ios_launch_2208x1242": "uploads/1443574037495_3k4954xta00rc_2208x1242.png",
       "ios_launch_1242x2208": "uploads/1443574037441_bgcw7ynny6zww_1242x2208.png",
-      "ios_launch_2208x1242": "uploads/1443574037495_3k4954xta00rc_2208x1242.png"
+      "ios_launch_750x1334": "uploads/1443574037411_0b393phm8etf8_750x1334.png",
+      "ios_launch_2048x1536": "uploads/1443574037376_y141dwmmxhrhr_2048x1536.png",
+      "ios_launch_1536x2048": "uploads/1443574037366_tubb6nvtfj5ju_1536x2048.png",
+      "ios_launch_1024x768": "uploads/1443574037350_1xw622jujz8am_1024x768.png",
+      "ios_launch_768x1024": "uploads/1443574037337_dw8r66pu478ye_768x1024.png",
+      "ios_launch_640x1136": "uploads/1443574037329_jb5fhd73ntvj0_640x1136.png",
+      "ios_launch_640x960": "uploads/1443574037321_zz1jvx5frhmbg_640x960.png"
     },
     "androidShowSplash": true,
     "disableAnimations": false,
     "hideWebviewAlpha": 0.5,
-    "customCSS": "#adsFloat1 {display: none;}\nheader {display:none; visibility:hidden;}",
-    "icon": "uploads/1443573881333_14hyy17aygd5y_web_hi_res_512.png",
-    "iosHeaderImage": "/uploads/1443573912278_3ty2fnzbgxmqp_web_hi_res_512.png",
-    "showActionBar": true,
-    "showNavigationBar": true,
-    "iosSidebarFont": "Default",
-    "androidHideTitleInActionBar": false,
-    "iosTheme": "light",
-    "androidTheme": "light",
-    "androidSidebarBackgroundColor": "#FFFFFF",
-    "androidSidebarForegroundColor": "#777777",
-    "androidActionBarBackgroundColor": "#518F51",
-    "androidActionBarForegroundColor": "#000000",
-    "androidPullToRefreshColor": "#777777",
-    "androidAccentColor": "#009688",
-    "androidSidebarSeparatorColor": "#585858",
-    "androidTabBarBackgroundColor": "#bdbdbd",
-    "androidTabBarTextColor": "#000000",
-    "androidTabBarIndicatorColor": "#000000",
-    "iosTitleColor": "#333333",
-    "iosTintColor": "#0091fe",
-    "iosSidebarTextColor": "#333333",
-    "androidLaunchImages": {
-      "mdpi": "uploads/1443574091189_w0ape6h2p5b7y_180x180.9.png",
-      "hdpi": "uploads/1443574091197_5mjap6quwy3hu_270x270.9.png",
-      "xhdpi": "uploads/1443574091205_7cufyv2vhhjpy_360x360.9.png",
-      "xxhdpi": "uploads/1443574091216_c473v1kr4h9cm_540x540.9.png",
-      "xxxhdpi": "uploads/1443574091224_9y644quv4a4z2_720x720.9.png"
-    },
-    "navigationTitleImage": false,
-    "androidStatusBarBackgroundColor": "#246224",
+    "androidNotificationIcon": "/uploads/1443574132334_tb4fwcevtvq9c_web_hi_res_512.png",
     "androidHeaderImage": "/uploads/1443574070915_gcujkb5kbyp2y_web_hi_res_512.png",
-    "androidNotificationIcon": "/uploads/1443574132334_tb4fwcevtvq9c_web_hi_res_512.png"
+    "androidStatusBarBackgroundColor": "#246224",
+    "navigationTitleImage": false,
+    "androidLaunchImages": {
+      "xxxhdpi": "uploads/1443574091224_9y644quv4a4z2_720x720.9.png",
+      "xxhdpi": "uploads/1443574091216_c473v1kr4h9cm_540x540.9.png",
+      "xhdpi": "uploads/1443574091205_7cufyv2vhhjpy_360x360.9.png",
+      "hdpi": "uploads/1443574091197_5mjap6quwy3hu_270x270.9.png",
+      "mdpi": "uploads/1443574091189_w0ape6h2p5b7y_180x180.9.png"
+    },
+    "iosSidebarTextColor": "#333333",
+    "iosTintColor": "#0091fe",
+    "iosTitleColor": "#333333",
+    "androidTabBarIndicatorColor": "#000000",
+    "androidTabBarTextColor": "#000000",
+    "androidTabBarBackgroundColor": "#bdbdbd",
+    "androidSidebarSeparatorColor": "#585858",
+    "androidAccentColor": "#009688",
+    "androidPullToRefreshColor": "#777777",
+    "androidActionBarForegroundColor": "#000000",
+    "androidActionBarBackgroundColor": "#518F51",
+    "androidSidebarForegroundColor": "#777777",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidTheme": "light",
+    "iosTheme": "light",
+    "androidHideTitleInActionBar": false,
+    "iosSidebarFont": "Default",
+    "showNavigationBar": true,
+    "showActionBar": true,
+    "iosHeaderImage": "/uploads/1443573912278_3ty2fnzbgxmqp_web_hi_res_512.png",
+    "icon": "uploads/1443573881333_14hyy17aygd5y_web_hi_res_512.png",
+    "customCSS": "#adsFloat1 {display: none;}\nheader {display:none; visibility:hidden;}"
   },
   "forms": {
     "interceptForms": {
       "forms": []
     },
     "search": {
-      "active": true,
-      "searchTemplateURL": "http://kissanime.com/M?sort=search&key="
+      "searchTemplateURL": "http://kissanime.to/M?sort=search&key=",
+      "active": true
     },
     "loginConfig": {
       "formInputs": [],
-      "formSelector": null,
+      "interceptUrl": "http://kissanime.to/Login",
+      "active": true,
       "loginIsFirstPage": false,
-      "active": false,
-      "interceptUrl": "http://kissanime.com/Login"
+      "formSelector": null
     },
     "signupConfig": {
       "formInputs": [],
-      "active": false,
+      "interceptUrl": "http://kissanime.to/Register",
       "formSelector": null,
-      "interceptUrl": ""
+      "active": true
     }
   },
   "permissions": {
@@ -600,9 +582,9 @@
       "active": false
     },
     "analytics": {
-      "active": false,
-      "idsite_prod": 39288,
-      "idsite_test": 39289
+      "idsite_test": 47997,
+      "idsite_prod": 47996,
+      "active": false
     }
   }
 }
